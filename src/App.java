@@ -66,7 +66,6 @@ public static void main(String[] args) {
         }
     }
 }
-
     // Object[][] peliculasSimuladas = {
     //     {"La Naranja Mecánica", "Ciencia Ficción, Sátira, Drama", "Stanley Kubrick", 87, 1971},
     //     {"Pulp Fiction", "Crimen, Comedia negra, Suspense", "Quentin Tarantino", 92, 1994},
