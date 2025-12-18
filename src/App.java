@@ -9,11 +9,7 @@ public class App {
         "dolore", "magna", "aliqua", "enim", "ad", "minim", "veniam"
     };
 
-    // private static final String[] LOREM = {
-    //     "Lorem", "Ipsum", "Dolor", "Sit", "Amet", "Consectetur", "Adipiscing", "Elit", 
-    //     "Sed", "Do", "Eiusmod", "Tempor", "Incididunt", "Ut", "Labore", "Et", 
-    //     "Dolore", "Magna", "Aliqua", "Enim", "Ad", "Minim", "Veniam"
-    // };
+    // <span class="badge rounded-pill bg-light text-dark border">{{ movie.genero }}</span>
 
     public static String generarFrase(int min, int max, boolean esTitulo) {
 
@@ -77,4 +73,5 @@ public static void main(String[] args) {
     //     {"Oppenheimer", "Biografía, Drama", "Christopher Nolan", 93, 2023},
     //     {"Barbie", "Comedia Fantástica", "Greta Gerwing", 88, 2023},
     //     {"Dune: Part Two", "Ciencia Ficción, Aventura", "Denis Villeneuve", 93, 2024}
+
     // };
